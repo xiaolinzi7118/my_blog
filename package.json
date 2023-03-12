@@ -1,0 +1,23 @@
+{
+  "name": "linzi-blog",
+  "version": "1.0.0",
+  "author": "linzi",
+  "scripts": {
+    "dev": "vuepress dev . --host \"localhost\"",
+    "build": "vuepress build .",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "vuepress": "1.5.4",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-meting": "^0.1.1",
+    "vuepress-plugin-sakura": "^1.2.1",
+    "vuepress-theme-reco": "1.5.7"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-comments": "^1.5.7",
+    "vue-class-component": "^7.2.3"
+  },
+  "description": ""
+}
