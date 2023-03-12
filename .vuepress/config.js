@@ -1,10 +1,9 @@
 const sidebar = require('./siderbar.js');
-console.log('sidebar: ', sidebar);
 module.exports = {
   "title": "xiaolinzi",
   "description": "学无止境，越学越有劲~",
   "dest": "public",
-  "base": "/",
+  "base": "/my_blog/",
   "head": [
     [
       "link",
