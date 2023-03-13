@@ -50,14 +50,14 @@ module.exports = {
           {
             name: "See You Again",
             artist: "Wiz Khalifa",
-            url: "/bgm/See You Again.mp3",
-            cover: "/bgm/See You Again.png",
+            url: "https://www.xzmp3.com/down/597caee79849.mp3",
+            cover: "https://s1.ax1x.com/2023/03/13/ppMzNBd.png",
           },
           {
             name: "幻听",
             artist: "许嵩",
-            url: "/bgm/幻听.mp3",
-            cover: "/bgm/幻听.png",
+            url: "https://www.xzmp3.com/down/4875e3eb70ae.mp3",
+            cover: "https://s1.ax1x.com/2023/03/13/ppMzsgS.png",
           },
         ],
         // 是否默认播放
