@@ -2,7 +2,7 @@
 title: Proxy代理 和 Reflect
 date: 2022-04-25
 tags:
- - ES6
+ - js
 categories:
  - 前端
 ---
